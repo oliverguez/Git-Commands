@@ -75,3 +75,7 @@ _A list of my commonly used Git commands_
 | Command | Description |
 | ------- | ----------- |
 |`git update-index --skip-worktree [Filename] `| Skip files that have been uploaded already|
+|`$ git checkout --ours [Filename]`|Solve conflict by keeping our files|
+|`$ git checkout --theirs [Filename]`|Solve conflict by keeping their files|
+|`git merge --continue`|Continue with merge after conflict has been solved|
+
