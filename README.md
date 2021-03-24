@@ -72,4 +72,6 @@ _A list of my commonly used Git commands_
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 ### Additional Commands
+| Command | Description |
+| ------- | ----------- |
 |`git update-index --skip-worktree [Filename] `| Skip files that have been uploaded already|
